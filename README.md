@@ -2,4 +2,4 @@
 
 This is my first Git Repository.
 <br>
-Author - Aniket (My collage)
+collage - Lnct(my collage)
