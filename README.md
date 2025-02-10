@@ -2,4 +2,4 @@
 
 This is my first Git Repository.
 <br>
-collage - Lnct(Bhopal's collage)
+collage - Lnct(Bhopal)
